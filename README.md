@@ -4,7 +4,7 @@
 
 ### :man_technologist: Обо мне:
 
-Я начинающий backend разработчик<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">.
+Я python backend разработчик<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">.
 
 :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-timoshenkost-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/timoshenkost)
 ---
